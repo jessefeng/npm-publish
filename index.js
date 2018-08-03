@@ -1,3 +1,3 @@
 exports.systemPrint = () => {
-    console.log('test for print message')
+    console.log('print message')
 };
